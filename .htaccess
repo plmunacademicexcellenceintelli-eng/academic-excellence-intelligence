@@ -1,0 +1,16 @@
+# AEI - Apache settings (XAMPP). Requires Apache 2.4 (XAMPP default).
+Options -Indexes
+DirectoryIndex index.php
+
+# Phase 1 page addresses (*.html) now live at *.php (old bookmarks and old "Recent activity" links keep working).
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} ^(.*)\.html$
+  RewriteRule \.html$ %1.php [R=301,L]
+</IfModule>
+
+# Documentation, SQL and notes are not meant to be served to browsers.
+<FilesMatch "\.(md|txt|sql|log|ini|sh|bat)$">
+  Require all denied
+</FilesMatch>

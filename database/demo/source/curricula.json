@@ -1,0 +1,178 @@
+{
+  "_source": "Transcribed from the curriculum-checklist screenshots in 'PLMun-Academic-Excellence-Intelligence-System.pdf' (2026-11-20). Only CODE, TITLE and units were used; the GPA values visible in the screenshots belong to a real student and were NOT used. units_from: 'total' = TOTAL UNITS column visible; 'lec' = TOTAL UNITS column cut off in the screenshot, LEC value used (every visible subject of that program in the same screenshot set has LAB = 0).",
+  "BSBA": {
+    "name": "Bachelor of Science in Business Administration (Marketing Management)",
+    "checklist": "2022-MARKETING Curriculum Checklist",
+    "terms": {
+      "1-1": {"units_from": "total", "subjects": [
+        ["GENED04", "Mathematics In The Modern World", 3],
+        ["GENED05", "Purposive Communication", 3],
+        ["PFIT100", "Movement Competency Training", 2],
+        ["NSTP001", "National Service Training Program 1 - CWTS 1", 0]]},
+      "1-2": {"units_from": "lec", "subjects": [
+        ["BACORE1", "Basic Microeconomics (eco)", 3],
+        ["GENED01", "Understanding The Self", 3],
+        ["PFIT200", "Exercise-based Fitness Activities", 2],
+        ["NSTP002", "National Service Training Program 2 - CWTS 1", 0]]},
+      "2-1": {"units_from": "total", "subjects": [
+        ["BACORE2", "Business Law (obligations And Contracts)", 3],
+        ["BACORE3", "Taxation (income Taxation)", 3],
+        ["BAPRMM1", "Professional Salesmanship", 3],
+        ["GENED06", "Art Appreciation", 3],
+        ["GEL1000", "Interdisciplinary Elective 1", 3],
+        ["RIZLW01", "The Life And Works Of Rizal", 3],
+        ["PFIT300", "Swimming", 2]]},
+      "2-2": {"units_from": "lec", "subjects": [
+        ["BACORE5", "Human Resource Management", 3],
+        ["BAPRMM3", "Marketing Management", 3],
+        ["BAPRMM4", "Distribution Management", 3],
+        ["GENED02", "Readings In Philippine History", 3],
+        ["GENED07", "Science, Technology And Society", 3],
+        ["GEL2000", "Interdisciplinary Elective 2", 3],
+        ["PFIT400", "Menu Of Courses", 2]]},
+      "3-1": {"units_from": "total", "subjects": [
+        ["BACORE6", "International Business And Trade", 3],
+        ["BAPRMM2", "Marketing Research", 3],
+        ["BAPRMM8", "Pricing Strategy", 3],
+        ["BAEL101", "Personal Finance", 3],
+        ["BAEL105", "Environmental Marketing", 3],
+        ["CBMEC10", "Operations Management (tqm)", 3],
+        ["GENED03", "The Contemporary World", 3]]},
+      "3-2": {"units_from": "lec", "subjects": [
+        ["BACORE7", "Business Research", 3],
+        ["BAPRMM6", "Product Management", 3],
+        ["BAPRMM7", "Retail Management", 3],
+        ["BAEL106", "Services Marketing", 3],
+        ["BAEL107", "Franchising", 3],
+        ["CBMEC20", "Strategic Management", 3],
+        ["GEL3000", "Interdisciplinary Elective 3", 3]]},
+      "4-1": {"units_from": "total", "subjects": [
+        ["BACORE8", "Thesis Or Feasibility Study", 3],
+        ["BACORE4", "Good Governance And Social Responsibilities", 3],
+        ["BAPRMM5", "Advertising", 3],
+        ["GENED08", "Ethics", 3]]},
+      "4-2": {"units_from": "lec", "subjects": [
+        ["BAPRAC1", "Work Integrated Learning", 6]]}
+    }
+  },
+  "BSIT": {
+    "name": "Bachelor of Science in Information Technology",
+    "checklist": "BSIT Curriculum Checklist",
+    "terms": {
+      "1-1": {"units_from": "total", "subjects": [
+        ["GENED01", "Understanding The Self", 3],
+        ["GENED04", "Mathematics In The Modern World", 3],
+        ["INTCOMP", "Introduction To Computing", 3],
+        ["FUNPROG", "Fundamentals Of Programming (lec/lab)", 3],
+        ["PFIT100", "Physical Activities Towards Health And Fitness 1 (pathfit 1) - Movement Competency Training", 2],
+        ["NSTP001", "National Service Training Program 1 - LTS 1", 0]]},
+      "1-2": {"units_from": "total", "subjects": [
+        ["GENED05", "Purposive Communication", 3],
+        ["IMDPROG", "Intermediate Programming (lec/lab)", 3],
+        ["WEBTEC1", "Web Technologies 1 (lec/lab)", 3],
+        ["MULTDSN", "Multimedia Design (lec/lab)", 3],
+        ["PFIT200", "Physical Activities Towards Health And Fitness 2 (pathfit 2) - Exercise-based Fitness Activities", 2],
+        ["NSTP002", "National Service Training Program 2 - LTS 1", 0]]},
+      "2-1": {"units_from": "total", "subjects": [
+        ["RIZLW01", "The Life And Works Of Rizal", 3],
+        ["GENED07", "Science, Technology, And Society", 3],
+        ["GEL1000", "Interdisciplinary Elective 1", 3],
+        ["DSCMATH", "Discrete Mathematics", 3],
+        ["NETCOM1", "Networking And Communication 1 (lec/lab)", 3],
+        ["INFMGMT", "Information Management (lec/lab)", 3],
+        ["DATASTR", "Data Structures And Algorithms (lec/lab)", 3],
+        ["PFIT400", "Menu Of Courses", 2]]},
+      "2-2": {"units_from": "total", "subjects": [
+        ["GENED06", "Art Appreciation", 3],
+        ["GENED02", "Readings In Philippine History", 3],
+        ["OBJPROG", "Object - Oriented Programming (lec/lab)", 3],
+        ["NETCOM2", "Networking And Communication 2 (lec/lab)", 3],
+        ["EVTPROG", "Event-driven Programming (lec/lab)", 3],
+        ["SOCPROF", "Social And Professional Issues", 3],
+        ["ADVDBMS", "Advance Database System (lec/lab)", 3],
+        ["PFIT300", "Swimming", 2]]},
+      "3-1": {"units_from": "total", "subjects": [
+        ["SYSINTG", "System Integration & Architecture 1 (lec/lab)", 3],
+        ["GEL2000", "Interdisciplinary Elective 2", 3],
+        ["ITELEC1", "It Professional Elective 1 (lec/lab)", 3],
+        ["INTPROG", "Integrative Programming & Technologies 1 (lec/lab)", 3],
+        ["HUMCOMP", "Human Computer Interaction (lec/lab)", 3],
+        ["QUANMET", "Quantitative Method", 3]]},
+      "3-2": {"units_from": "total", "subjects": [
+        ["ITELEC2", "It Professional Elective 2 (lec/lab)", 3],
+        ["APPDEVT", "Application Development And Emerging Technology (lec/lab)", 3],
+        ["PROJMIT", "Project Management In It", 3],
+        ["ITELEC3", "It Professional Elective 3 (lec/lab)", 3],
+        ["INFSEC1", "Information Assurance And Security 1", 3],
+        ["CAPSTR1", "Capstone Project And Research 1", 3],
+        ["GENED03", "The Contemporary World", 3]]},
+      "4-1": {"units_from": "total", "subjects": [
+        ["GENED08", "Ethics", 3],
+        ["CAPSTR2", "Capstone Project And Research 2", 3],
+        ["GEL3000", "Interdisciplinary Elective 3", 3],
+        ["INFSEC2", "Information Assurance And Security 2", 3],
+        ["ITELEC4", "It Professional Elective 4 (lec/lab)", 3]]},
+      "4-2": {"units_from": "total", "subjects": [
+        ["INTRN50", "Internship (500 Hours)", 6],
+        ["TECHPRE", "Technopreneurship", 3],
+        ["SYSTADM", "System Administration And Maintenance", 3]]}
+    }
+  },
+  "BACOM": {
+    "name": "Bachelor of Arts in Communication",
+    "checklist": "BACOM Curriculum Checklist",
+    "terms": {
+      "1-1": {"units_from": "total", "subjects": [
+        ["COMM101", "Introduction To Communication Media", 3],
+        ["GENED01", "Understanding The Self", 3],
+        ["GENED05", "Purposive Communication", 3],
+        ["PFIT100", "Movement Competency Training", 2],
+        ["NSTP001", "National Service Training Program 1 - CWTS 1", 0]]},
+      "1-2": {"units_from": "total", "subjects": [
+        ["COMM102", "Communication Theory", 3],
+        ["GENED04", "Mathematics In The Modern World", 3],
+        ["PFIT200", "Exercise-based Fitness Activities", 2],
+        ["NSTP002", "National Service Training Program 2 - CWTS 1", 0]]},
+      "2-1": {"units_from": "total", "subjects": [
+        ["COMM104", "Communication, Culture And Society", 3],
+        ["COMM131", "Public Information Principles And Practices", 3],
+        ["GENED07", "Science, Technology And Society", 3],
+        ["GEL1000", "Interdisciplinary Elective 1", 3],
+        ["RIZLW01", "The Life And Works Of Rizal", 3],
+        ["PFIT400", "Menu Of Courses", 2]]},
+      "2-2": {"units_from": "lec", "subjects": [
+        ["COMM105", "Communication Media Laws And Ethics", 3],
+        ["COMM111", "Development Communication", 3],
+        ["COMM121", "Journalism Principles And Practices", 3],
+        ["COMM132", "Political Economy Of Communication", 3],
+        ["GENED06", "Art Appreciation", 3],
+        ["GENED02", "Readings In Philippine History", 3],
+        ["PFIT300", "Swimming", 2]]},
+      "3-1": {"units_from": "total", "subjects": [
+        ["COMM103", "Communication Research", 3],
+        ["COMM112", "Risk, Disaster, Humanitarian Communication", 3],
+        ["COMM122", "Broadcasting Principles And Practices", 3],
+        ["COMSH01", "SocSci/humanities Elective 1", 3],
+        ["COMSH02", "SocSci/humanities Elective 2", 3],
+        ["GEL2000", "Interdisciplinary Elective 2", 3]]},
+      "3-2": {"units_from": "total", "subjects": [
+        ["COMM106", "Communication Planning", 3],
+        ["COMM123", "Advertising Principles And Practices", 3],
+        ["COMM133", "Peace Communication", 3],
+        ["COMSH03", "SocSci/humanities Elective 3", 3],
+        ["COMM198", "Thesis 1", 3],
+        ["GENED03", "The Contemporary World", 3],
+        ["GEL3000", "Interdisciplinary Elective 3", 3]]},
+      "4-1": {"units_from": "total", "subjects": [
+        ["COMM107", "Communication Management", 3],
+        ["COMM113", "Knowledge Management", 3],
+        ["COMM134", "Communication In The Asean Setting", 3],
+        ["COMM199", "Thesis 2", 3],
+        ["COMSH04", "SocSci/humanities Elective 4", 3],
+        ["COMSH05", "SocSci/humanities Elective 5", 3]]},
+      "4-2": {"units_from": "lec", "subjects": [
+        ["COMM190", "Internship", 3],
+        ["GENED08", "Ethics", 3]]}
+    }
+  }
+}
